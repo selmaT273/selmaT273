@@ -6,10 +6,10 @@
 
 ```javascript
 const stacey = {
-  pronouns: "she" | "her",
-  code: [ "C#", "JavaScript", "HTML", "CSS" ],
-  databases: [ "MSSQL", "MongoDB", "Postgres" ],
-  tools: [ "React", "Node", "xUnit", "Bootstrap", "Jest", "Docker" ],
-  services: [ "Netlify", "Heroku", "Azure", "Auth0" ]
+  pronouns: ["she", "her"],
+  code: ["C#", "JavaScript", "HTML", "CSS"],
+  databases: ["MSSQL", "MongoDB", "Postgres"],
+  tools: ["React", "Node", "xUnit", "Bootstrap", "Jest", "Docker"],
+  services: ["Netlify", "Heroku", "Azure", "Auth0"]
 }
 ```
