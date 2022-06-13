@@ -1,6 +1,6 @@
 <h2> Hi, I'm Stacey! :wave: </h2>
 
-[![Twitter: selma_042](https://img.shields.io/twitter/follow/selma_042?style=social)](https://twitter.com/selma_042)
+[![Twitter: selmaT273](https://img.shields.io/twitter/follow/selmaT273?style=social)](https://twitter.com/selmaT273)
 [![Linkedin: stacey-teltser](https://img.shields.io/badge/-stacey.teltser-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stacey-teltser/)](https://www.linkedin.com/in/stacey-teltser/)
 [![GitHub selmaT273](https://img.shields.io/github/followers/selmaT273?label=follow&style=social)](https://github.com/selmat273)
 
