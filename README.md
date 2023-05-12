@@ -6,9 +6,9 @@
 ```javascript
 const stacey = {
   pronouns: ["she", "her"],
-  code: ["C#", "JavaScript", "HTML", "CSS"],
-  databases: ["MSSQL", "MongoDB", "Postgres"],
-  tools: ["React", "Node", "xUnit", "Bootstrap", "Jest", "Docker"],
-  services: ["Netlify", "Heroku", "Azure", "Auth0"]
+  technologies: ["C#", ".NET Core", "ASP.NET", "JavaScript", "HTML", "CSS", "React", "Node", "React Native", "Git", "GitHub", "xUnit", "Bootstrap", "MUI", "Jest", "Docker"],
+  databases: ["MSSQL", "MongoDB", "PostgreSQL"],
+  services: ["Netlify", "Heroku", "Azure", "Auth0", "AWS", "SendGrid"],
+  accessibility: ["WCAG 2.1", "NVDA", "VoiceOver", "Axe"],
 }
 ```
