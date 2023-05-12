@@ -7,9 +7,9 @@
 const stacey = {
   pronouns: ["she", "her"],
   technologies: ["C#", ".NET Core", "ASP.NET", "JavaScript", "HTML", "CSS", "React", "Remix", 
-  "Node", "React Native", "Git", "GitHub", "xUnit", "Bootstrap", "MUI", "Jest", "Docker"],
+  "Node", "React Native", "Git", "GitHub", "xUnit", "Bootstrap", "MUI", "Jest"],
   databases: ["MSSQL", "MongoDB", "PostgreSQL"],
-  services: ["Netlify", "Heroku", "Azure", "Auth0", "AWS", "SendGrid"],
+  services: ["Netlify", "Heroku", "Azure", "Auth0", "Docker", "AWS", "SendGrid"],
   accessibility: ["WCAG 2.1", "NVDA", "VoiceOver", "Axe"],
 }
 ```
